@@ -1,7 +1,7 @@
 public class Multiplication {
     public static void main(String[] args) {
         int a = 5;
-        int b = 3;
+        int b = 8;
 
         int result = a * b;
         System.out.println("Multiplication: " + result);
